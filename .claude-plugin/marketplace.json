@@ -1,0 +1,22 @@
+{
+  "name": "discipline-skill",
+  "owner": {
+    "name": "gogoyooni",
+    "url": "https://github.com/gogoyooni"
+  },
+  "plugins": [
+    {
+      "name": "investment-discipline",
+      "source": "./plugins/investment-discipline",
+      "description": "Investment decision-discipline coach — uses the frameworks of great investors to stop impulsive, emotion-driven trades.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "investing",
+        "discipline",
+        "trading-journal",
+        "behavioral-finance"
+      ]
+    }
+  ]
+}

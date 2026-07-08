@@ -1,0 +1,18 @@
+{
+  "name": "investment-discipline",
+  "version": "0.1.0",
+  "description": "Investment decision-discipline coach. Records the rules you set when calm, then challenges you in the voice of a master investor only when a later message contradicts them.",
+  "author": {
+    "name": "gogoyooni",
+    "url": "https://github.com/gogoyooni"
+  },
+  "homepage": "https://github.com/gogoyooni/discipline-skill",
+  "repository": "https://github.com/gogoyooni/discipline-skill",
+  "license": "MIT",
+  "keywords": [
+    "investing",
+    "discipline",
+    "trading-journal",
+    "behavioral-finance"
+  ]
+}

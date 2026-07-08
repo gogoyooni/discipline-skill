@@ -1,0 +1,24 @@
+# ── Personal ledger — MUST never be committed ───────────────────────────────
+# A user's real discipline/ ledger contains their private trades and rules.
+# Only examples/discipline/ (fabricated) belongs in the repo.
+discipline/
+!examples/discipline/
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# ── Editors / OS ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ── Build artifacts ─────────────────────────────────────────────────────────
+*.skill
+dist/
